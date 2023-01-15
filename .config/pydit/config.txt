@@ -1,0 +1,5 @@
+[PATHS]
+doc_dir = /home/gcs/Documentos/pydit/
+pic_dir = /home/gcs/Imagens/pydit/
+vid_dir = /home/gcs/Vídeos/pydit/
+
