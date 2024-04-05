@@ -1,6 +1,6 @@
 syntax on
 autocmd BufNewFile * startinsert
-colorscheme darkblue
+colorscheme evening
 set background=dark
 set tabstop=4
 set shiftwidth=4
@@ -12,4 +12,4 @@ set wildmenu
 set showmatch
 set incsearch
 set hlsearch
-let g:airline_theme='bubblegum'
+set mouse-=a
